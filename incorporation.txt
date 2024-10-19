@@ -1,1 +1,9 @@
+n1. Adaptive Shift Profit
 
+We incorporate an innovative Adaptive Shift Profit model, referenced simply as “ASP.” This model ensures that Hogue AI has the necessary resources for growth and scale, while maintaining long-term alignment with a core mission. In the ASP model, we pre-allocate a majority share of the underlying asset and dynamically shift profits and resources over time towards the nonprofit.
+
+ I. Pre-Allocation of Assets
+
+A majority share of the company’s initial assets are earmarked toward a management entity, Hogue AI ASP, which oversees the implementation and management of the profit-shifting strategy. These assets are strategically divided to facilitate growth while ensuring long-term mission alignment. Hogue AI ASP functions as the management and operational entity that controls the allocation of profits and assets between the for-profit and nonprofit arms of the business.
+
+ II. Dynamic Allocation of

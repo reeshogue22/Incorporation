@@ -1,4 +1,4 @@
-n1. Adaptive Shift Profit
+1. Adaptive Shift Profit
 
 We incorporate an innovative Adaptive Shift Profit model, referenced simply as “ASP.” This model ensures that Hogue AI has the necessary resources for growth and scale, while maintaining long-term alignment with a core mission. In the ASP model, we pre-allocate a majority share of the underlying asset and dynamically shift profits and resources over time towards the nonprofit.
 
@@ -6,4 +6,27 @@ We incorporate an innovative Adaptive Shift Profit model, referenced simply as �
 
 A majority share of the company’s initial assets are earmarked toward a management entity, Hogue AI ASP, which oversees the implementation and management of the profit-shifting strategy. These assets are strategically divided to facilitate growth while ensuring long-term mission alignment. Hogue AI ASP functions as the management and operational entity that controls the allocation of profits and assets between the for-profit and nonprofit arms of the business.
 
- II. Dynamic Allocation of
+ II. Dynamic Allocation of Assets
+The Adaptive Shift Profit (ASP) model enables a dynamic and flexible allocation of resources between the for-profit and nonprofit arms over time. Initially, a larger portion of profits is allocated toward the for-profit side to fuel growth, investment in innovation, and operational sustainability. However, as the company matures and reaches predetermined growth milestones, the ASP model shifts more of the profits and resources toward the nonprofit arm.
+
+This gradual shift is pre-programmed to ensure that the for-profit segment has adequate resources during critical growth phases while allowing for increased social impact as the company stabilizes. The percentage of resources allocated to the nonprofit is adaptable, based on performance metrics, long-term mission priorities, and external factors such as market conditions.
+
+III. Milestone-Based Shifts
+
+The ASP model operates on a milestone-based framework where key indicators, such as revenue targets, operational efficiency, or technological advancements, trigger shifts in resource allocation. For example:
+
+    Early Stage (0-3 years): A higher percentage (e.g., 80%) of profits is directed toward the for-profit arm to reinvest in R&D, scaling infrastructure, and market expansion, while 20% supports the nonprofit arm to establish initial impact programs and operations.
+
+    Growth Stage (3-7 years): As the company scales, the ASP model dynamically adjusts to allocate 60% of profits toward the for-profit business and 40% toward the nonprofit. This ensures the continued growth of the for-profit while strengthening the nonprofit’s reach and capabilities.
+
+    Mature Stage (7+ years): Once the company is fully established, the balance shifts further, potentially to 50/50 or even a majority of profits going toward the nonprofit, depending on performance and strategic goals.
+
+IV. Feedback Loops and Flexibility
+
+The ASP model incorporates feedback mechanisms to ensure flexibility in resource allocation. Regular reviews and assessments of the company’s financial health, market conditions, and nonprofit impact are used to adjust the profit shifts if necessary. This adaptive nature ensures that both arms of the company remain sustainable and aligned with their respective missions over time.
+
+V. Governance and Oversight
+
+To maintain transparency and ensure accountability, Hogue AI ASP is governed by a board composed of representatives from both the for-profit and nonprofit arms, as well as independent stakeholders. This board is responsible for monitoring the allocation of profits, making strategic decisions regarding shifts, and ensuring the long-term sustainability of both entities.
+
+2.
